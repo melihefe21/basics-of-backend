@@ -1,12 +1,11 @@
 <html>
 <head>
-    <title>Tijdsgroeting</title>
+    <title>goedmornink</title>
     <style>
         body {
             text-align: center;
             font-size: 24px;
             background-size: cover;
-            background-position: center;
         }
     </style>
 </head>
